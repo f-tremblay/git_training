@@ -1,5 +1,7 @@
 # Learn `git` concepts, not commands
 
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/f-tremblay/git_training)
+
 **An interactive git tutorial meant to teach you how git works, not just which commands to execute.**
 
 So, you want to use git, right? 

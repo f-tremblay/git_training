@@ -1,1 +1,2 @@
 Hi, I'm bob. I'm new here.
+Add some text on a new line to Bob.txt on master and commit it.
